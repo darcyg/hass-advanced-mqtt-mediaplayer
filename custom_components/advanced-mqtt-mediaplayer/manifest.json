@@ -1,0 +1,9 @@
+{
+    "domain": "advanced-mqtt-mediaplayer",
+    "name": "Advanced MQTT Media Player",
+    "after_dependencies": [
+        "mqtt"
+    ],
+    "requirements": [],
+    "codeowners": []
+}
